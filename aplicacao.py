@@ -85,7 +85,7 @@ print()
 print("JOGADORES DE EXEMPLO: ")
 
 jogadores = [
-    "Ederson",
+    "Alisson",
     "Endrick",
     "Raphinha",
     "Marquinhos",
